@@ -1,4 +1,5 @@
-Project name: Moving ball  https://yeonhoryu.github.io/moving_ball/
+Project name: Moving ball  
+              https://yeonhoryu.github.io/moving_ball/
 
 A description of the project: 
 1.	This project is an exercise project for JavaScript’s set-time function, array, and web display on html environment.
