@@ -1,5 +1,7 @@
 Project name: Moving ball  
 
+MIT xPRO full stack developer course
+
 
 A description of the project: 
 1.	This project is an exercise project for JavaScript’s set-time function, array, and web display on html environment.
